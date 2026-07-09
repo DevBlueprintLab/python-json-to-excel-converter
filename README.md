@@ -96,3 +96,15 @@ python-json-to-excel-converter/
 ```
 
 ---
+## 🔮 Roadmap & Future Improvements
+
+* Support nested JSON objects
+* Convert multiple JSON files in a single execution
+* Allow custom worksheet names
+* Automatically detect numeric and date columns
+* Export to CSV as an additional output format
+* Develop a graphical user interface (GUI)
+
+---
+
+Developed by **DevBlueprint Lab**
