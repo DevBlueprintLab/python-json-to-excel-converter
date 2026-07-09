@@ -25,3 +25,22 @@ The program validates JSON input, transforms lists of dictionaries into Excel wo
 </p>
 
 ---
+## 🧠 Core Features & Architecture
+
+* 📄 **JSON to Excel Conversion:** Converts JSON files containing lists of dictionaries into Excel workbooks.
+* ✅ **Input Validation:** Verifies that the JSON file is valid before processing and detects unsupported structures.
+* 📋 **Schema Verification:** Ensures every record contains a consistent set of fields before generating the workbook.
+* 🎨 **Workbook Formatting:** Applies professional header styling, alignment, borders, and formatting for improved readability.
+* 📌 **Excel Enhancements:** Automatically freezes the header row, enables filters, and adjusts column widths.
+* 📂 **Safe Output Management:** Preserves the original JSON file and saves the converted workbook in a dedicated output folder.
+
+---
+
+## 🛠️ Tech Stack & Requirements
+
+* **Core Language:** Python 3.x
+* **JSON Processing:** `json`
+* **Spreadsheet Engine:** `openpyxl`
+* **File Handling:** `pathlib`
+
+---
