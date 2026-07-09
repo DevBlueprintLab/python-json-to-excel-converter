@@ -64,3 +64,35 @@ pip install openpyxl
 ```bash
 python json_to_excel.py
 ```
+### 4. Execution example
+
+```text
+==============================
+Convert to Excel
+==============================
+
+Converting to Excel...
+
+Conversion finished!
+
+Converted Excel rows: 25
+
+Saved:
+employees.xlsx
+```
+
+---
+
+## 📁 Project Structure
+
+```text
+python-json-to-excel-converter/
+├── json_to_excel.py         # Main automation script
+├── README.md                # Project documentation
+└── images/
+    ├── json-input.png
+    ├── terminal-output.png
+    └── excel-output.png
+```
+
+---
