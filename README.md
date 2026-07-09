@@ -44,3 +44,23 @@ The program validates JSON input, transforms lists of dictionaries into Excel wo
 * **File Handling:** `pathlib`
 
 ---
+## ⚡ Quick Start & Usage
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/DevBlueprintLab/python-json-to-excel-converter.git
+cd python-json-to-excel-converter
+```
+
+### 2. Install dependencies
+
+```bash
+pip install openpyxl
+```
+
+### 3. Run the tool
+
+```bash
+python json_to_excel.py
+```
