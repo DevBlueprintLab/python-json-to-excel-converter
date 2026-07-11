@@ -21,7 +21,7 @@ The program validates JSON input, transforms lists of dictionaries into Excel wo
 </p>
 
 <p align="center">
-  <img src="images/excel-output.png" width="765" alt="Generated Excel Workbook" />
+  <img src="images/after.png" width="765" alt="Generated Excel Workbook" />
 </p>
 
 ---
