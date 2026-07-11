@@ -17,7 +17,7 @@ The program validates JSON input, transforms lists of dictionaries into Excel wo
 
 <p align="center">
   <img src="images/before.png" width="380" alt="JSON Input File" />
-  <img src="images/terminal-output.png" width="380" alt="CLI Conversion Process" />
+  <img src="images/terminal.png" width="380" alt="CLI Conversion Process" />
 </p>
 
 <p align="center">
