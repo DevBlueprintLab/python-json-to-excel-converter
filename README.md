@@ -16,7 +16,7 @@ The program validates JSON input, transforms lists of dictionaries into Excel wo
 ### Ingestion ➔ Processing ➔ Output
 
 <p align="center">
-  <img src="images/json-input.png" width="380" alt="JSON Input File" />
+  <img src="images/before.png" width="380" alt="JSON Input File" />
   <img src="images/terminal-output.png" width="380" alt="CLI Conversion Process" />
 </p>
 
