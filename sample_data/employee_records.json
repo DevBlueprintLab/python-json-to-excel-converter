@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "department": "Marketing",
+    "email": "sarah@example.com",
+    "salary": 55000
+  },
+  {
+    "name": "Michael Brown",
+    "department": "Sales",
+    "email": "michael@example.com",
+    "salary": 62000
+  },
+  {
+    "name": "Emily Davis",
+    "department": "Finance",
+    "email": "emily@example.com",
+    "salary": 58000
+  }
+]
