@@ -127,12 +127,12 @@ converted/
 ```text
 python-json-to-excel-converter/
 
-├── json_to_excel.py
+├── json_to_excel.py        # Main automation script
 ├── README.md
 ├── LICENSE
-├── requirements.txt
-├── sample_data/
-│   └── example.json
+├── requirements.txt        # Project dependencies
+├── sample_data/            
+│   └── example.json        # Example input file
 └── images/
     ├── json-input.png
     ├── conversion-process.png
