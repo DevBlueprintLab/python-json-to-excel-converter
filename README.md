@@ -84,11 +84,11 @@ cd python-json-to-excel-converter
 ```
 
 ## 2. Install dependencies
+Install the required Python packages:
 
 ```bash
-pip install openpyxl
+pip install -r requirements.txt
 ```
-
 ## 3. Run the converter
 
 ```bash
