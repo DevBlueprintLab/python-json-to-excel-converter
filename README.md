@@ -4,7 +4,7 @@
 ![Dependency](https://img.shields.io/badge/Dependency-openpyxl-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A Python automation tool that converts structured JSON data into clean, formatted Excel workbooks with validation, automatic styling, and organized output management.
+
 
 ---
 # 🖥️ Demo
