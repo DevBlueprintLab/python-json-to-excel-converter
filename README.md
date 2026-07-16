@@ -64,12 +64,7 @@ This tool automates the conversion workflow by:
 
 ---
 
-# 🛠️ Tech Stack
 
-- **Language:** Python 3.x
-- **Excel Processing:** `openpyxl`
-- **JSON Processing:** Built-in `json` module
-- **File Handling:** `pathlib`
 
 ---
 
