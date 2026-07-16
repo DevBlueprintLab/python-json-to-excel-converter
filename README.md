@@ -63,7 +63,12 @@ This tool automates the conversion workflow by:
   Keeps the original JSON file unchanged and saves converted workbooks into a dedicated output folder.
 
 ---
+# 🛠️ Tech Stack
 
+- **Language:** Python 3.x
+- **Excel Processing:** `openpyxl`
+- **JSON Processing:** Built-in `json` module
+- **File Handling:** `pathlib`
 
 
 ---
