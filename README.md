@@ -8,18 +8,7 @@ A Python automation tool that converts structured JSON data into clean, formatte
 
 ---
 
-# 🖥️ Demo
 
-### JSON Input ➜ Automated Conversion ➜ Excel Output
-
-<p align="center">
-  <img src="images/json-input.png" width="380" alt="JSON input file" />
-  <img src="images/conversion-process.png" width="380" alt="Conversion process" />
-</p>
-
-<p align="center">
-  <img src="images/excel-output.png" width="765" alt="Generated Excel workbook" />
-</p>
 
 ---
 
